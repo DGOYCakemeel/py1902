@@ -68,4 +68,4 @@ cowsay -l. Выводит список всех животных, которые
 fortune | cowsay -f животное_из_списка. Животное на ваш выбор начинает сыпать цитатами, иногда уместными.
 sudo apt-get install fortunes fortune-mod fortunes-min fortunes-ru. Заставит весь зоопарк говорить по-русски. Без этого животные цитируют Твена и Уайльда в оригинале.
 Это далеко не все команды Linux. Если вам нужно узнать в деталях параметры и способы применения команд Linux, вы можете воспользоваться встроенным руководством. Наберите man ваша_команда или ваша_команда --help.
-![alt text](http://memesmix.net/media/created/ftyhtf.jpg)
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png)
